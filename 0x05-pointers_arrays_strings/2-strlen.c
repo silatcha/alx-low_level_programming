@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * strlen - length of string
+ * _strlen - length of string
  * @s: pointer s
  * Return: int
  */
 
-int _strlen(int *n)
+int _strlen(int *s)
 {
 
 int i=0;
